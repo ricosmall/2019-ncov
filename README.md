@@ -28,6 +28,8 @@
 
 [新型冠状病毒预防手册.pdf](./docs/handbook.pdf)
 
+[冠状病毒.pptx](./docs/coronavirus.pptx)
+
 ## 内部总结
 
 [劲松的总结](./docs/jinsong.md)
