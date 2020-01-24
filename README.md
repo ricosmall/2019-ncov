@@ -10,6 +10,8 @@
 
 ### 1.口罩相关
 
+[病毒来袭，科学家告诉你这样选口罩 | 117三人行](https://mp.weixin.qq.com/s/-xhlIld5bp9ttKblnOclhg)
+
 ### 2.洗手
 
 [医护人员演示正确的洗手方法](https://weibo.com/tv/v/IqGuSCkbT)
@@ -32,4 +34,4 @@
 
 ## 内部总结
 
-[劲松的总结](./docs/jinsong.md)
+[龙哥的总结](./docs/jinsong.md)
