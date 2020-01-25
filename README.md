@@ -4,7 +4,9 @@
 
 [新型冠状病毒型肺炎实时动态 - 手机](https://map.baidu.com/zt/y2020/pneumonia/index.html)
 
-[关注新型冠状病毒的可靠信息与谣言](https://shimo.im/docs/JTrxH8wwxGyVd96r/read?scene=2&clicktime=1579768675&enterid=1579768675)
+[一手资讯/科普汇总](https://shimo.im/docs/VDvgrwXWyxhRqhd6/read)
+
+[疫情基本情况](./docs/疫情基本情况.md)
 
 ## 预防知识
 
