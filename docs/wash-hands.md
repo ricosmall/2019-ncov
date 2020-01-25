@@ -2,7 +2,7 @@
 
 ## 1.什么时候洗手？
 
-![when](https://uploader.shimo.im/f/EU7UM7T0GZ0JGFlN.png!thumbnail)
+![when](https://bookpic.lrts.me/220u64zh4033kg7fozq8a0v4g5b9qx2l.png)
 
 综合人民日报、丁香医生、果壳发布的信息，建议在以下情况之一时务必洗手：
 
