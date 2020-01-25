@@ -31,15 +31,21 @@
 
 ### 2.2 洗手步骤
 
-**简略版（来源：人民日报）**
+**简略版**
+
+> 来源：人民日报
 
 ![simple](https://bookpic.lrts.me/534y5ba24r51doc9k9piblghaqrpsd5w.png)
 
-**详细七步洗手法（来源：果壳）**
+**详细七步洗手法**
+
+> 来源：果壳
 
 ![detail](https://bookpic.lrts.me/nt6xs6colfbpg840urz058uldrtm5bhv.png)
 
 [**医护人员演示正确的洗手方法**](https://weibo.com/tv/v/IqGuSCkbT)
+
+> 来源：微博
 
 ## 3.免洗消毒液更好吗？
 
