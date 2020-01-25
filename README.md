@@ -18,6 +18,8 @@
 
 ### 3.消毒
 
+[消毒知识](./docs/sterilization.md)
+
 ### 4.心理健康
 
 [疫情蔓延下的心理防护手册【武汉荣格心理】](https://mp.weixin.qq.com/s/9HSnkC0uEcT9vAb2xRZqRQ)
