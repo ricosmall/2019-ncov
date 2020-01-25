@@ -10,7 +10,7 @@
 
 ### 1.口罩相关
 
-[病毒来袭，科学家告诉你这样选口罩 | 117三人行](https://mp.weixin.qq.com/s/-xhlIld5bp9ttKblnOclhg)
+[病毒来袭，科学家告诉你这样选口罩 - 117三人行](https://mp.weixin.qq.com/s/-xhlIld5bp9ttKblnOclhg)
 
 ### 2.洗手
 
@@ -22,7 +22,7 @@
 
 [疫情蔓延下的心理防护手册【武汉荣格心理】](https://mp.weixin.qq.com/s/9HSnkC0uEcT9vAb2xRZqRQ)
 
-[肺炎恐慌下，如何保护自己和家人？｜6个心理防护方案](https://mp.weixin.qq.com/s/b_Ce-2jpG3Wt6DpIYNdMDA)
+[肺炎恐慌下，如何保护自己和家人？ - 6个心理防护方案](https://mp.weixin.qq.com/s/b_Ce-2jpG3Wt6DpIYNdMDA)
 
 ### 5.病毒相关的科普知识
 
