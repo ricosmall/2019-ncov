@@ -16,6 +16,8 @@
 
 [医护人员演示正确的洗手方法](https://weibo.com/tv/v/IqGuSCkbT)
 
+[洗手指南](./docs/wash-hands.md)
+
 ### 3.消毒
 
 ### 4.心理健康
