@@ -6,7 +6,7 @@
 
 [一手资讯/科普汇总](https://shimo.im/docs/VDvgrwXWyxhRqhd6/read)
 
-[疫情基本情况](./docs/疫情基本情况.md)
+[疫情基本情况](./docs/virus-basic.md)
 
 ## 预防知识
 
