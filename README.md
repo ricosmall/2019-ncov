@@ -12,6 +12,8 @@
 
 [病毒来袭，科学家告诉你这样选口罩 - 117三人行](https://mp.weixin.qq.com/s/-xhlIld5bp9ttKblnOclhg)
 
+[口罩选用指南](./docs/face-mask.md)
+
 ### 2.洗手
 
 [洗手指南](./docs/wash-hands.md)
